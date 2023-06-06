@@ -1,0 +1,31 @@
+/* Customize the styles based on your preferences */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#note-container {
+  margin-top: 20px;
+}
+
+.note {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.note p {
+  margin: 0;
+}
+
+.note-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
